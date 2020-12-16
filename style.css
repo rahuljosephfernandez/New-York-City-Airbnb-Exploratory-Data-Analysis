@@ -1,0 +1,33 @@
+body {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #ffffff;
+}
+
+st. h1 {
+    color: #000000;
+}
+
+.label {
+    color: #ffffff;
+}
+
+p {
+    color: #000000;
+}
+
+.bg-primary {
+    background-color: #000000;
+}
+
+.text-primary {
+    color: #ffffff;
+}
+
+.sidebar .sidebar-content {
+    background-image: linear-gradient(#000000,#000000);
+    color: white;
+}
